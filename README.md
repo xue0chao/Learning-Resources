@@ -5,3 +5,4 @@
 - [Javascript Air](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q)
 - [Vue](https://vuejs.org/)
 - [Trending Github Repos](https://github.com/trending)
+- [Uncle Bob](https://8thlight.com/blog/uncle-bob/)
