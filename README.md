@@ -6,3 +6,4 @@
 - [Vue](https://vuejs.org/)
 - [Trending Github Repos](https://github.com/trending)
 - [Uncle Bob](https://8thlight.com/blog/uncle-bob/)
+- [Rust Video Series] (https://medium.com/mozilla-tech/rust-and-the-future-of-systems-programming-b75fba746910#.jkt4qa1nh)
